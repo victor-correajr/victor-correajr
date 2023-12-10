@@ -1,0 +1,6 @@
+- Victor A Correa Jr
+- ------------------
+- 10 years of programming
+- SQL - Senior
+- vb.NET - Senior
+- Learning to make games
